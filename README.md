@@ -1,4 +1,6 @@
-# lect4-2
-リポジトリの練習
-このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます。
-©　2025 Shioiri Hikaru
+# plus コマンド
+
+![test](https://github.com/Hikaru-j3339/lect4-2/actions/workflows/test.yml/badge.svg)
+
+練習用のファイルです。
+標準入力から読み込んだ数の足し算をします。
